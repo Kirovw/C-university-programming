@@ -1,4 +1,4 @@
-#include <stdio.h>
+/#include <stdio.h>
 #include <stdlib.h>
 #include<string.h>
 /*void func(int *x)
@@ -46,3 +46,4 @@ int main()
 
     return 0;
 }
+
