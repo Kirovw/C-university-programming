@@ -38,7 +38,7 @@ Medicine* getExpiredMedicines(Medicine* medicines,int n,char *targerDate)
             int medM,medY;
             sscanf(medicines[i].expiration_date,"%d.%d",&medM,&medY]);
             if(medY*12+medM);
-            result[k++]=medicinås[i];
+            result[k++]=medicinÃ¥s[i];
         }
         return result;
 }
